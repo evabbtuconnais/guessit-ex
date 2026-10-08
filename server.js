@@ -265,6 +265,10 @@ function layout(title, body) {
       .rank-2 { color: #9aa0a6; }
       .rank-3 { color: #b06b3a; }
     </style>
+    <a class="navbar-brand" href="/">
+  🎯 Guess It, by Alice, Bob &amp; Chuck
+</a>
+
   </head>
   <body>
     <nav class="navbar navbar-dark mb-4" style="background-color: var(--accent);">
